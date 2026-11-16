@@ -13,6 +13,32 @@ Baaji is a full-stack clothing e-commerce application with a customer storefront
 - ImageKit-backed product, category, and event image uploads with server-side type and size validation.
 - WhatsApp order notifications through Twilio when configured.
 
+## Screenshots
+
+### 1. Hero Section
+
+![Baaji Hero Banner](screenshots/hero-section.png)
+
+### 2. Trending Products
+
+![Baaji Trending Products](screenshots/trending-products.png)
+
+### 3. Product Detail Page
+
+![Baaji Product Detail Page](screenshots/product-detail.png)
+
+### 4. Admin Dashboard — Products
+
+![Baaji Admin Dashboard Products](screenshots/admin-dashboard-products.png)
+
+### 5. Authentication — Login Page
+
+![Baaji Login Page](screenshots/auth-login-page.png)
+
+### 6. Mobile Banner
+
+![Baaji Mobile Banner](screenshots/mobile-banner.png)
+
 ## Tech stack
 
 - **Frontend:** React 19, React Router 7, Vite 7, Tailwind CSS 4, Axios, and Swiper.
@@ -35,6 +61,7 @@ Baaji is a full-stack clothing e-commerce application with a customer storefront
 │   ├── routes/
 │   ├── scripts/           # One-time admin setup CLI
 │   └── server.js
+├── screenshots/           # Project screenshots
 ├── .env.example
 └── backend/.env.example
 ```
